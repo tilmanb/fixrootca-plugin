@@ -5,6 +5,6 @@ Calling windows' curl.exe on the server triggers an import of the root CA certif
 
 ## References ##
 
-https://superuser.com/questions/1919651/why-is-a-ca-certificate-harica-tls-rsa-root-ca-2021-listed-in-ccadb-not-in-win
-https://github.com/qgis/QGIS/issues/51722
-https://github.com/qgis/QGIS/issues/62782
+- https://superuser.com/questions/1919651/why-is-a-ca-certificate-harica-tls-rsa-root-ca-2021-listed-in-ccadb-not-in-win
+- https://github.com/qgis/QGIS/issues/51722
+- https://github.com/qgis/QGIS/issues/62782
